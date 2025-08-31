@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Row 1: IBM SkillsBuild / Credly badges -->
-<img src="https://images.credly.com/size/110x110/images/857a6d2c-d002-4175-b8bc-7eda448515cf.png" alt="Artificial Intelligence" width="100"/>  
+<img src="https://images.credly.com/size/110x110/images/857a6d2c-d002-4175-b8bc-7eda448515cf.png" alt="Artificial Intelligence" width="99"/>  
 <img src="https://images.credly.com/size/110x110/images/045a6eb5-7e19-455c-9bf1-28056b78f524.png" alt="Cloud Computing" width="100"/>  
 <img src="https://images.credly.com/size/110x110/images/9878afcf-b4fe-44b9-b484-82520318aea0.png" alt="Cloud Computing & Virtualization" width="100"/>  
 <img src="https://images.credly.com/size/110x110/images/4bfd01e8-eede-46e7-b9b4-7a12c6b8b86c.png" alt="Cloud Security" width="100"/>  
