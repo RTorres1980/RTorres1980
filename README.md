@@ -41,13 +41,21 @@ Each project runs on synthetic data, has tests, and has a README explaining the 
 
 ## 🛠️ Skills
 
-**Data & analytics:** Python · SQL · Power BI · Tableau · Excel · data visualization · business intelligence · predictive analytics
+**Data analytics & BI:** Python · SQL · Excel · Power BI (data modeling, visualization) · Tableau · Streamlit dashboards · statistics and predictive modeling · reconciliation and exception reporting
 
-**Cloud & AI:** Oracle Cloud Infrastructure · Oracle Autonomous Database · Microsoft Azure · generative AI and LLMs · AI automation · machine learning
+**Data engineering:** ETL and streaming pipelines (Kafka, PostgreSQL, SQLite) · data quality and validation · data conversion and migration · Docker · GitHub Actions
 
-**Business systems:** Salesforce · HubSpot · Workday · payroll systems · CRM platforms
+**AI & cloud:** generative AI and LLM engineering · machine learning · Oracle Cloud Infrastructure · Oracle Autonomous Database · Oracle APEX · Microsoft Azure
 
-**Domain:** wealth management · brokerage operations · retirement plans · regulatory compliance · payroll, HR and benefits technology · SaaS sales and operations
+**IT & security:** IT support · network security · cybersecurity fundamentals · UX design · project management
+
+**Payroll, HR & benefits technology:** isolved People Cloud (administration, payroll, benefits, onboarding) · Workday · compensation strategy and pay structures · benefit plan design and implementation · total rewards
+
+**Tax, accounting & finance:** individual tax preparation (IRS VITA) · equity compensation and cryptocurrency tax · bookkeeping · QuickBooks · structured-product cash-flow modeling · insurance pricing
+
+**CRM, sales & marketing:** Salesforce (administration, sales operations, sales development) · HubSpot (reporting, data integrations, Service Hub, inbound sales and marketing) · Mailchimp email and SMS · SEO · revenue operations
+
+**Domain:** wealth management · brokerage and trading operations · retirement and nonqualified plan administration · ERISA, IRS and DOL compliance · medical billing and office administration
 
 ---
 
