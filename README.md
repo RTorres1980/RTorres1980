@@ -1,4 +1,72 @@
-## 📜 All Certifications
+# 👋 Robert Torres
+
+**Financial services · Data analytics · AI · HR & payroll technology**
+
+I bring 15+ years in wealth management, brokerage operations, retirement plans and regulatory compliance to data analytics, automation and AI. I build tools that apply that domain knowledge: reconciliations, risk models, data conversions and reporting pipelines.
+
+📍 Salt Lake City, UT · 🔗 [LinkedIn](https://www.linkedin.com/in/robert-torres-394535381)
+
+---
+
+## 📂 Featured projects
+
+Each project runs on synthetic data, has tests, and has a README explaining the method and results.
+
+### Trading & capital markets
+| Project | What it does |
+|---|---|
+| [**Trading Operations Suite**](https://github.com/RTorres1980/m1-trading-ops-suite) | Reconciles trades against broker confirmations, classifies every break, runs post-trade compliance checks, and produces SQL, an Excel report and a Streamlit dashboard |
+| [**Trading Ops Reconciliation Suite**](https://github.com/RTorres1980/trading-ops-reconciliation-suite) | Position and cash reconciliation against the custodian with suggested causes, plus best-execution analytics (price improvement, E/Q ratio, venue scorecard) |
+| [**Securitized Products Analytics**](https://github.com/RTorres1980/SecuritizedProductsAnalytics) | Monthly cash-flow model for ABS, MBS and CMBS tranches with prepayment, default and spread stress tests |
+| [**Private Placement Screener**](https://github.com/RTorres1980/Private-Placement-Screener) | Screens private placement notes on NAIC designation, leverage, coverage and covenants, then ranks them on relative value |
+| [**Investor Services Toolkit**](https://github.com/RTorres1980/Capital-Markets) | Investor-level cash-flow reporting, data exception checks and a dashboard |
+
+### Data engineering & analytics
+| Project | What it does |
+|---|---|
+| [**Validata**](https://github.com/RTorres1980/Validata) | Streaming ETL (Kafka → Postgres) with record-level validation and table-level data quality checks that gate each run |
+| [**Workday Financials Data Conversion**](https://github.com/RTorres1980/workday-financials-data-conversion-lead-demo) | Mock conversion from NetSuite and Concur to Workday: mappings, load files, validation, reconciliation and project documents |
+| [**Financial Markets ETL**](https://github.com/RTorres1980/Financial-Market-ETL) | Config-driven market data pipeline to CSV and SQLite, with Docker and scheduled GitHub Actions runs |
+| [**Wealth ETL Project**](https://github.com/RTorres1980/wealth-etl-project) | Combines client, account, holding and transaction data, ties holdings to custodian balances, and flags data issues |
+| [**Retail & Manufacturing Financial Intelligence**](https://github.com/RTorres1980/Local-Corporate) | P&L by location, subledger-to-GL reconciliation, inventory turnover and GMROI, and a revenue forecast |
+
+### Insurance & other
+| Project | What it does |
+|---|---|
+| [**Insurance Pricing Algorithm**](https://github.com/RTorres1980/insurance-pricing-algorithm) | Term life rating engine: mortality-based net premiums, risk-class factors, underwriting limits and modal premiums |
+| [**Crypto Intelligence Analysis**](https://github.com/RTorres1980/Crypto_Intelligence_Analysis) | Ranks large-cap cryptocurrencies on momentum, risk-adjusted return, trend and liquidity |
+| [**Friends, Foes & Office Productivity**](https://github.com/RTorres1980/workplace-productivity-analysis) | A lighthearted correlation study, and a lesson in why correlation isn't causation |
+
+---
+
+## 🛠️ Skills
+
+**Data & analytics:** Python · SQL · Power BI · Tableau · Excel · data visualization · business intelligence · predictive analytics
+
+**Cloud & AI:** Oracle Cloud Infrastructure · Oracle Autonomous Database · Microsoft Azure · generative AI and LLMs · AI automation · machine learning
+
+**Business systems:** Salesforce · HubSpot · Workday · payroll systems · CRM platforms
+
+**Domain:** wealth management · brokerage operations · retirement plans · regulatory compliance · payroll, HR and benefits technology · SaaS sales and operations
+
+---
+
+## 🏆 Certifications
+
+**AI & cloud:** Oracle Autonomous Database Cloud Certified Professional · OCI Generative AI Professional · OCI AI Foundations Associate · Oracle Cloud & AI · Oracle APEX Foundations · IBM Generative AI Engineering · IBM Artificial Intelligence Fundamentals · Microsoft Azure Fundamentals
+
+**Data analytics & BI:** Google Advanced Data Analytics · Google Data Analytics · IBM Data Analyst · IBM Data Science · IBM Business Intelligence Analyst · IBM Data Engineering · Microsoft Power BI Data Analysis & Visualization · Microsoft Power BI Data Modeling · Tableau Business Intelligence Analyst
+
+**Technology:** IBM Cloud Computing Fundamentals · IBM Information Technology Fundamentals · IBM Cybersecurity Fundamentals · IBM IT Support Technician
+
+**SaaS, CRM & revenue operations:** Salesforce Administrator · Salesforce Sales Development Representative · Salesforce Sales Operations · HubSpot Inbound, Inbound Sales, Inbound Marketing, Email Marketing, Reporting, Service Hub, Data Integrations, Revenue Operations and SEO
+
+**Payroll, HR & benefits:** isolved People Cloud Administrator · Workday Basics Series · ADP: Benefit Strategies, Compensation Strategies, Job Evaluations & Pay Structures, Compensation & Benefits Essential Skills, Total Rewards
+
+**Tax, accounting & finance:** IRS VITA Basic · Intuit Bookkeeping · Intuit Tax Level 1 · Intuit Equity Compensation Tax · Intuit Cryptocurrency Tax · QuickBooks Solution Selling (Product and Sales)
+
+<details>
+<summary><b>📜 Badges and verification links</b></summary>
 
 <div align="center">
 
@@ -41,3 +109,5 @@
 [Oracle APEX: Foundations](https://www.oracle.com/education/) | [Oracle Cloud and AI](https://www.oracle.com/education/) | [Johns Hopkins Medical Office Manager](https://www.jhu.edu/) | [Variable Life and Annuity](https://doi.utah.gov)  
 
 </div>
+
+</details>
