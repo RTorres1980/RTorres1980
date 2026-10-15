@@ -30,9 +30,10 @@ Each project runs on synthetic data, has tests, and has a README explaining the 
 | [**Wealth ETL Project**](https://github.com/RTorres1980/wealth-etl-project) | Combines client, account, holding and transaction data, ties holdings to custodian balances, and flags data issues |
 | [**Retail & Manufacturing Financial Intelligence**](https://github.com/RTorres1980/Local-Corporate) | P&L by location, subledger-to-GL reconciliation, inventory turnover and GMROI, and a revenue forecast |
 
-### Insurance & other
+### Insurance, annuities & sales strategy
 | Project | What it does |
 |---|---|
+| [**Life & Annuity Account Strategy**](https://github.com/RTorres1980/life-annuity-account-strategy) | Strategic account planning for carriers, IMOs and BGAs: account health scoring, MEDDPICC qualification, a weighted forecast, Mutual Action Plans and account plans |
 | [**Insurance Pricing Algorithm**](https://github.com/RTorres1980/insurance-pricing-algorithm) | Term life rating engine: mortality-based net premiums, risk-class factors, underwriting limits and modal premiums |
 | [**Crypto Intelligence Analysis**](https://github.com/RTorres1980/Crypto_Intelligence_Analysis) | Ranks large-cap cryptocurrencies on momentum, risk-adjusted return, trend and liquidity |
 | [**Friends, Foes & Office Productivity**](https://github.com/RTorres1980/workplace-productivity-analysis) | A lighthearted correlation study, and a lesson in why correlation isn't causation |
@@ -53,7 +54,7 @@ Each project runs on synthetic data, has tests, and has a README explaining the 
 
 **Tax, accounting & finance:** individual tax preparation (IRS VITA) · equity compensation and cryptocurrency tax · bookkeeping · QuickBooks · structured-product cash-flow modeling · insurance pricing
 
-**CRM, sales & marketing:** Salesforce (administration, sales operations, sales development) · HubSpot (reporting, data integrations, Service Hub, inbound sales and marketing) · Mailchimp email and SMS · SEO · revenue operations
+**CRM, sales & marketing:** MEDDPICC qualification · Mutual Action Plans · strategic account planning and forecasting · Salesforce (administration, sales operations, sales development) · HubSpot (reporting, data integrations, Service Hub, inbound sales and marketing) · Mailchimp email and SMS · SEO · revenue operations
 
 **Domain:** wealth management · brokerage and trading operations · retirement and nonqualified plan administration · ERISA, IRS and DOL compliance · medical billing and office administration
 
