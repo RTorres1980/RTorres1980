@@ -4,13 +4,19 @@
 
 I bring 15+ years in wealth management, brokerage operations, retirement plans and regulatory compliance to data analytics, automation and AI. I build tools that apply that domain knowledge: reconciliations, risk models, data conversions and reporting pipelines.
 
-📍 Salt Lake City, UT · 🔗 [LinkedIn](https://www.linkedin.com/in/robert-torres-394535381)
+📍 Salt Lake City, UT · 🔗 [LinkedIn](https://www.linkedin.com/in/robert-torres-394535381) · 🤗 [Hugging Face](https://huggingface.co/Torres1980)
 
 ---
 
 ## 📂 Featured projects
 
 Each project runs on synthetic data, has tests, and has a README explaining the method and results.
+
+### Private markets & equity compensation
+| Project | What it does |
+|---|---|
+| [**capstack**](https://github.com/RTorres1980/capstack) | Auditable private-capital operations: 409A valuations (OPM backsolve, DLOM), QSBS Section 1202 screening, pro-rata capital calls and portfolio KPI validation, with a tamper-evident ledger that replays any result |
+| [**DeferralGuard**](https://github.com/RTorres1980/deferral-guard) | Section 409A compliance screening for nonqualified deferred compensation plans: election timing, specified-employee delays and distribution checks, built on Oracle Autonomous Database, APEX and OCI Generative AI |
 
 ### Trading & capital markets
 | Project | What it does |
@@ -37,6 +43,26 @@ Each project runs on synthetic data, has tests, and has a README explaining the 
 | [**Insurance Pricing Algorithm**](https://github.com/RTorres1980/insurance-pricing-algorithm) | Term life rating engine: mortality-based net premiums, risk-class factors, underwriting limits and modal premiums |
 | [**Crypto Intelligence Analysis**](https://github.com/RTorres1980/Crypto_Intelligence_Analysis) | Ranks large-cap cryptocurrencies on momentum, risk-adjusted return, trend and liquidity |
 | [**Friends, Foes & Office Productivity**](https://github.com/RTorres1980/workplace-productivity-analysis) | A lighthearted correlation study, and a lesson in why correlation isn't causation |
+
+---
+
+## 🤝 Open-source contributions
+
+| Project | Contribution |
+|---|---|
+| [Addepar/RedFlag](https://github.com/Addepar/RedFlag) | [#19](https://github.com/Addepar/RedFlag/pull/19): fixed HTML comment stripping that was silently disabled, so PR template comments no longer reach the model, and a recursive `message` setter |
+| [Addepar/ember-table](https://github.com/Addepar/ember-table) | [#1263](https://github.com/Addepar/ember-table/pull/1263): fixed a crash when the loading indicator is torn down mid-update, with a regression test |
+| [Addepar/ember-table](https://github.com/Addepar/ember-table) | [#1264](https://github.com/Addepar/ember-table/pull/1264): fixed newly added columns rendering hidden under slack width constraints, with a regression test |
+
+## 🤗 Hugging Face Spaces
+
+| Space | What it does |
+|---|---|
+| [**401(k) Plan Health Explorer**](https://huggingface.co/spaces/Torres1980/plan-health-explorer) | Compliance and fee flags for small 401(k) plans |
+| [**Alternatives Data Integrity**](https://huggingface.co/spaces/Torres1980/alts-data-integrity) | Reconciliation of alternative-investment and insurance data across reporting platforms |
+| [**Partner Outreach Agent**](https://huggingface.co/spaces/Torres1980/partner-outreach-agent) | Agent for advisor referral partner outreach |
+
+Plus a text-classification model for alternative-investment transactions: [alts-transaction-classifier](https://huggingface.co/Torres1980/alts-transaction-classifier).
 
 ---
 
