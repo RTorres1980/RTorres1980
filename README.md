@@ -6,6 +6,8 @@ I bring 15+ years in wealth management, brokerage operations, retirement plans a
 
 📍 Salt Lake City, UT · 🔗 [LinkedIn](https://www.linkedin.com/in/robert-torres-394535381) · 🤗 [Hugging Face](https://huggingface.co/Torres1980)
 
+**Also on:** [Kaggle](https://www.kaggle.com/roberttorres1980) · [Stack Overflow](https://stackoverflow.com/users/33333871/robert-torres) · [LFX (Linux Foundation)](https://app.lfx.dev/u/rtorres1980) · [Postman](https://www.postman.com/rtorres1980) · [Weights & Biases](https://forge.coreweave.com/profile/rtorres1980)
+
 ---
 
 ## 📂 Featured projects
