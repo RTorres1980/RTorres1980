@@ -21,6 +21,7 @@ Each project runs on synthetic data, has tests, and has a README explaining the 
 ### Trading & capital markets
 | Project | What it does |
 |---|---|
+| [**secid-recon**](https://github.com/RTorres1980/secid-recon) | Validates and converts CUSIP, ISIN and SEDOL identifiers, maps them to Bloomberg FIGIs through OpenFIGI, and reconciles positions across custodian and administrator files, deployed as a hardened API on Kubernetes |
 | [**Trading Operations Suite**](https://github.com/RTorres1980/m1-trading-ops-suite) | Reconciles trades against broker confirmations, classifies every break, runs post-trade compliance checks, and produces SQL, an Excel report and a Streamlit dashboard |
 | [**Trading Ops Reconciliation Suite**](https://github.com/RTorres1980/trading-ops-reconciliation-suite) | Position and cash reconciliation against the custodian with suggested causes, plus best-execution analytics (price improvement, E/Q ratio, venue scorecard) |
 | [**Securitized Products Analytics**](https://github.com/RTorres1980/SecuritizedProductsAnalytics) | Monthly cash-flow model for ABS, MBS and CMBS tranches with prepayment, default and spread stress tests |
@@ -70,7 +71,7 @@ Plus a text-classification model for alternative-investment transactions: [alts-
 
 **Data analytics & BI:** Python · SQL · Excel · Power BI (data modeling, visualization) · Tableau · Streamlit dashboards · statistics and predictive modeling · reconciliation and exception reporting
 
-**Data engineering:** ETL and streaming pipelines (Kafka, PostgreSQL, SQLite) · data quality and validation · data conversion and migration · Docker · GitHub Actions
+**Data engineering:** ETL and streaming pipelines (Kafka, PostgreSQL, SQLite) · data quality and validation · data conversion and migration · Docker · Kubernetes (Kustomize, kind) · GitHub Actions
 
 **AI & cloud:** generative AI and LLM engineering · machine learning · Oracle Cloud Infrastructure · Oracle Autonomous Database · Oracle APEX · Microsoft Azure
 
